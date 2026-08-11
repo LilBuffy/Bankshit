@@ -6,6 +6,22 @@ Users can create accounts, manage demo bank accounts, check balances, deposit an
 
 Basically, it's banking without actually having any fucking money.
 
+## 🪦 Project Status
+
+**RIP / Abandoned**
+
+This project was created as an educational banking simulator and is no longer actively maintained.
+
+It served its purpose.
+
+The fake money is gone.
+
+The fake bank is closed.
+
+The database has seen enough.
+
+**Вечная память, NOVABANK.**
+
 ## 💳 Main Features
 
 * User registration and login
@@ -84,7 +100,7 @@ Administrators can manage:
 * Notifications
 * Security logs
 
-Basically, the admin has the power to see everything and probably judge every stupid transaction.
+Basically, the admin has control over the whole fucking bank.
 
 ## 🛠️ Technologies
 
@@ -104,7 +120,7 @@ The website supports:
 * English
 * Filipino
 
-So whether you're a local user or some foreign mf trying to figure out where their fake money went, the interface should be understandable.
+So both local users and foreign visitors can use the system without suffering **pizdets** trying to understand the interface.
 
 ## ⚠️ Disclaimer
 
@@ -114,12 +130,8 @@ It does **not** process real money, connect to real banking institutions, or pro
 
 All accounts, transactions, loans, and balances are completely simulated.
 
-Please don't deposit your life savings here.
+Please don't deposit your life savings here. **wink wink**
 
 **You will get absolutely fucking nothing.**
 
-## 🏦 Tagline
-
-> **Banko Peligro. Secure your money. Survive your decisions.**
-
-**Blyat.**
+**Конец.**
