@@ -57,6 +57,11 @@ Users can perform various demo banking operations such as:
 * Repay loans
 * Check transaction history
 
+Demo Accounts
+| Admin | `admin` | `Password123!` | Full admin console at `/admin/`
+| Customer | `juan.delacruz` | `Password123!` | Demo balance ₦V 25,000
+| Customer | `maria.santos` | `Password123!` | Demo balance ₦V 8,500.50, has an active demo loan
+
 All transactions are simulated.
 
 **No real money. No real bank. No real fucking riches.**
