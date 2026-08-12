@@ -1,31 +1,29 @@
 # 🏦 NOVABANK
 
-**NOVABANK** is a fucking modern fictional digital banking website designed as a secure banking simulator for desktop and mobile devices.
+**NOVABANK** is a fucking fictional digital banking simulator built for educational purposes.
 
-Users can create accounts, manage demo bank accounts, check balances, deposit and withdraw demo funds, transfer money, manage beneficiaries, and view transaction history.
+Users can create accounts, manage demo bank accounts, check balances, deposit and withdraw fake money, transfer funds, manage beneficiaries, apply for fake loans, and view transaction history.
 
-Basically, it's banking without actually having any fucking money.
+Basically, **banking without actually having any fucking money.**
 
 ## 🪦 Project Status
 
-**RIP / Abandoned**
+**ABANDONED**
 
-This project was created as an educational banking simulator and is no longer actively maintained.
-
-It served its purpose.
+This project was built as an educational banking simulator and is no longer maintained.
 
 The fake money is gone.
 
 The fake bank is closed.
 
-The database has seen enough.
+The database has suffered enough.
 
 **Вечная память, NOVABANK.**
 
 ## 💳 Main Features
 
 * User registration and login
-* Secure authentication
+* Authentication
 * Personal banking dashboard
 * Demo bank accounts
 * Demo deposits and withdrawals
@@ -33,7 +31,7 @@ The database has seen enough.
 * Transaction history
 * Beneficiary management
 * Fictional loan applications
-* Loan repayments
+* Demo loan repayments
 * Account and profile management
 * Notifications
 * Security Center
@@ -42,51 +40,67 @@ The database has seen enough.
 * User management
 * Transaction management
 * Loan management
-* Filipino and English language support
-* Responsive design for PC, tablet, and mobile devices
+* English and Filipino language support
+* Responsive PC, tablet, and mobile design
+
+Basically, a whole fucking bank running on PHP.
+
+What could possibly go wrong?
+
+**BLYAAAAAT.**
 
 ## 💰 Banking
 
-Users can perform various demo banking operations such as:
+Users can:
 
-* Deposit funds
-* Withdraw funds
-* Transfer funds
+* Deposit fake money
+* Withdraw fake money
+* Transfer fake money
 * Manage beneficiaries
 * Apply for fictional loans
-* Repay loans
-* Check transaction history
+* Repay fictional loans
+* View transaction history
 
-Demo Accounts
+### Demo Accounts
 
-Admin | `admin` | `Password123!` | Full admin console at `/admin/`
+| Role     | Username        | Password       | Details                                    |
+| -------- | --------------- | -------------- | ------------------------------------------ |
+| Admin    | `admin`         | `Password123!` | Full admin console at `/admin/`            |
+| Customer | `juan.delacruz` | `Password123!` | Demo balance ₦V 25,000                     |
+| Customer | `maria.santos`  | `Password123!` | Demo balance ₦V 8,500.50, active demo loan |
 
-Customer | `juan.delacruz` | `Password123!` | Demo balance ₦V 25,000
+Everything is simulated.
 
-Customer | `maria.santos` | `Password123!` | Demo balance ₦V 8,500.50, has an active demo loan
+**No real money.**
 
-All transactions are simulated.
+**No real bank.**
 
-**No real money. No real bank. No real fucking riches.**
+**No real riches.**
+
+Just fake numbers making you feel rich for five minutes.
 
 ## 💀 Loans
 
-Users can apply for fictional loans and manage their loan status through the system.
+Users can apply for fictional loans and manage them through the system.
 
-The system supports:
+Supports:
 
 * Loan applications
 * Loan status tracking
-* Demo loan repayments
+* Demo repayments
 * Loan records
 
-Borrowing money is easy.
+Borrowing money:
 
-Paying it back is where the **pizdets** begins.
+**Easy.**
+
+Paying it back:
+
+**ПИЗДЕЦ.**
 
 ## 🔐 Security
 
-NOVABANK includes security related features such as:
+NOVABANK includes:
 
 * User authentication
 * Transaction confirmation
@@ -99,7 +113,7 @@ Because a banking system without security would be absolute **govno**.
 
 ## 👨‍💼 Admin Dashboard
 
-Administrators can manage:
+Admins can manage:
 
 * Users
 * Accounts
@@ -108,7 +122,9 @@ Administrators can manage:
 * Notifications
 * Security logs
 
-Basically, the admin has control over the whole fucking bank.
+Basically, the admin gets the keys to the entire fucking bank.
+
+One bad query and **the economy is finished.**
 
 ## 🛠️ Technologies
 
@@ -119,27 +135,33 @@ Basically, the admin has control over the whole fucking bank.
 * MySQL / MariaDB
 * XAMPP
 
-The system is designed to work on **PC, tablet, and mobile devices**.
+Designed for:
+
+**PC. Tablet. Mobile.**
 
 ## 🌎 Language Support
 
-The website supports:
+Supports:
 
 * English
 * Filipino
 
-So both local users and foreign visitors can use the system without suffering **pizdets** trying to understand the interface.
+So users can understand the interface without suffering **pizdets** trying to translate everything.
 
 ## ⚠️ Disclaimer
 
 **NOVABANK is a fictional educational project.**
 
-It does **not** process real money, connect to real banking institutions, or provide actual financial services.
+It does not process real money, connect to real banks, or provide actual financial services.
 
 All accounts, transactions, loans, and balances are completely simulated.
 
-Please don't deposit your life savings here. **wink wink**
+Do not put your life savings here.
 
-**You will get absolutely fucking nothing.**
+Actually, don't put **any fucking money** here.
+
+You'll get nothing.
+
+**Absolutely nothing.**
 
 **Конец.**
