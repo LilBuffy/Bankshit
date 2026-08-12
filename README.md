@@ -12,13 +12,7 @@ Basically, **banking without actually having any fucking money.**
 
 This project was built as an educational banking simulator and is no longer maintained.
 
-The fake money is gone.
-
-The fake bank is closed.
-
-The database has suffered enough.
-
-**Вечная память, NOVABANK.**
+The fake money is gone. The fake bank is closed. The database has suffered enough. **Вечная память, NOVABANK.**
 
 ## 💳 Main Features
 
@@ -43,11 +37,7 @@ The database has suffered enough.
 * English and Filipino language support
 * Responsive PC, tablet, and mobile design
 
-Basically, a whole fucking bank running on PHP.
-
-What could possibly go wrong?
-
-**BLYAAAAAT.**
+A whole fucking bank running on PHP. What could possibly go wrong?
 
 ## 💰 Banking
 
@@ -69,15 +59,7 @@ Users can:
 | Customer | `juan.delacruz` | `Password123!` | Demo balance ₦V 25,000                     |
 | Customer | `maria.santos`  | `Password123!` | Demo balance ₦V 8,500.50, active demo loan |
 
-Everything is simulated.
-
-**No real money.**
-
-**No real bank.**
-
-**No real riches.**
-
-Just fake numbers making you feel rich for five minutes.
+Everything is simulated. **No real money.** **No real bank.** **No real riches.** Just fake numbers making you feel rich for five minutes.
 
 ## 💀 Loans
 
@@ -90,13 +72,9 @@ Supports:
 * Demo repayments
 * Loan records
 
-Borrowing money:
+Borrowing money: **Easy.**
 
-**Easy.**
-
-Paying it back:
-
-**ПИЗДЕЦ.**
+Paying it back: **ПИЗДЕЦ.**
 
 ## 🔐 Security
 
@@ -109,8 +87,6 @@ NOVABANK includes:
 * Activity logs
 * Security Center
 
-Because a banking system without security would be absolute **govno**.
-
 ## 👨‍💼 Admin Dashboard
 
 Admins can manage:
@@ -121,10 +97,6 @@ Admins can manage:
 * Loans
 * Notifications
 * Security logs
-
-Basically, the admin gets the keys to the entire fucking bank.
-
-One bad query and **the economy is finished.**
 
 ## 🛠️ Technologies
 
