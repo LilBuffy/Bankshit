@@ -1,84 +1,86 @@
 # 🏦 NOVABANK
 
-**NOVABANK** is a fucking fictional digital banking simulator built for educational purposes.
+**NOVABANK** ay isang fucking **fictional digital banking simulator** para sa educational purposes.
 
-Users can create accounts, manage demo bank accounts, check balances, deposit and withdraw fake money, transfer funds, manage beneficiaries, apply for fake loans, and view transaction history.
+Pwede kang gumawa ng account, mag deposit at withdraw ng fake money, mag transfer, mag manage ng beneficiaries, mag apply ng fake loans, at mag check ng transaction history.
 
-Basically, **banking without actually having any fucking money.**
+Basically, **banking pero walang totoong pera.**
 
 ## 🪦 Project Status
 
 **ABANDONED**
 
-This project was built as an educational banking simulator and is no longer maintained.
+Educational project ko lang ’to at hindi na maintained.
 
-The fake money is gone. The fake bank is closed. The database has suffered enough. **Вечная память, NOVABANK.**
+Wala na ang fake money. Sarado na ang fake bank. Yung database, pagod na sa buhay.
+
+**Вечная память, NOVABANK.**
 
 ## 💳 Main Features
 
-* User registration and login
+* Registration at login
 * Authentication
-* Personal banking dashboard
+* Banking dashboard
 * Demo bank accounts
-* Demo deposits and withdrawals
-* Demo fund transfers
+* Fake deposits at withdrawals
+* Fake fund transfers
 * Transaction history
 * Beneficiary management
-* Fictional loan applications
+* Fictional loans
 * Demo loan repayments
-* Account and profile management
+* Account at profile management
 * Notifications
 * Security Center
-* Login and activity logs
+* Login at activity logs
 * Admin Dashboard
 * User management
 * Transaction management
 * Loan management
-* English and Filipino language support
-* Responsive PC, tablet, and mobile design
+* English at Filipino
+* Responsive PC, tablet, at mobile design
 
-A whole fucking bank running on PHP. What could possibly go wrong?
+Isang buong fucking bank na tumatakbo sa PHP. **What could possibly go wrong?**
 
 ## 💰 Banking
 
 Users can:
 
-* Deposit fake money
-* Withdraw fake money
-* Transfer fake money
-* Manage beneficiaries
-* Apply for fictional loans
-* Repay fictional loans
-* View transaction history
+* Mag deposit ng fake money
+* Mag withdraw ng fake money
+* Mag transfer ng fake money
+* Mag manage ng beneficiaries
+* Mag apply ng fictional loans
+* Magbayad ng fictional loans
+* Mag check ng transactions
 
 ### Demo Accounts
 
-| Role     | Username        | Password       | Details                                    |
-| -------- | --------------- | -------------- | ------------------------------------------ |
-| Admin    | `admin`         | `Password123!` | Full admin console at `/admin/`            |
-| Customer | `juan.delacruz` | `Password123!` | Demo balance ₦V 25,000                     |
-| Customer | `maria.santos`  | `Password123!` | Demo balance ₦V 8,500.50, active demo loan |
+| Role     | Username        | Password       | Details                                   |
+| -------- | --------------- | -------------- | ----------------------------------------- |
+| Admin    | `admin`         | `Password123!` | Full admin console                        |
+| Customer | `juan.delacruz` | `Password123!` | Demo balance ₱25,000                      |
+| Customer | `maria.santos`  | `Password123!` | Demo balance ₱8,500.50 + active demo loan |
 
-Everything is simulated. **No real money.** **No real bank.** **No real riches.** Just fake numbers making you feel rich for five minutes.
+**Lahat fake.**
+
+Walang totoong pera, bank, o kayamanan.
+
+Fake numbers lang na nagpaparamdam na mayaman ka ng limang minuto.
 
 ## 💀 Loans
 
-Users can apply for fictional loans and manage them through the system.
-
-Supports:
+Pwede mag apply ng fictional loans at i manage ang repayments.
 
 * Loan applications
-* Loan status tracking
+* Loan status
 * Demo repayments
 * Loan records
 
-Borrowing money: **Easy.**
-
-Paying it back: **ПИЗДЕЦ.**
+Borrowing money: **Madali.** Pagbabayad: **ПИЗДЕЦ.**
 
 ## 🔐 Security
 
-NOVABANK includes:
+Merong:
 
 * User authentication
 * Transaction confirmation
@@ -107,33 +109,23 @@ Admins can manage:
 * MySQL / MariaDB
 * XAMPP
 
-Designed for:
-
-**PC. Tablet. Mobile.**
-
 ## 🌎 Language Support
-
-Supports:
 
 * English
 * Filipino
 
-So users can understand the interface without suffering **pizdets** trying to translate everything.
+Para hindi ka ma **пиздец** kakahanap kung ano ba ibig sabihin ng bawat button.
 
 ## ⚠️ Disclaimer
 
-**NOVABANK is a fictional educational project.**
+**Fictional educational project lang ang NOVABANK.**
 
-It does not process real money, connect to real banks, or provide actual financial services.
+Walang real money, real bank, o actual financial services.
 
-All accounts, transactions, loans, and balances are completely simulated.
+Lahat ng accounts, transactions, loans, at balances ay **simulated**.
 
-Do not put your life savings here.
+Huwag mong ilagay savings mo dito.
 
-Actually, don't put **any fucking money** here.
+Actually, huwag kang maglagay ng **kahit isang fucking piso** dito.
 
-You'll get nothing.
-
-**Absolutely nothing.**
-
-**Конец.**
+Makukuha mo: **WALA.** **Absolutely fucking nothing.**
