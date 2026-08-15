@@ -14,7 +14,7 @@ $currentPage = basename($_SERVER['SCRIPT_NAME']);
 <script>window.NOVABANK_BASE_URL = <?= json_encode(APP_BASE_URL) ?>;</script>
 </head>
 <body>
-<div class="demo-banner"><?= e(t('demo_notice')) ?></div>
+<div class="demo-banner" style="display: none;"><?= e(t('demo_notice')) ?></div>
 <div class="app-shell">
     <aside class="sidebar">
         <?php require __DIR__ . '/sidebar.php'; ?>
