@@ -8,13 +8,13 @@ I made this because I'm broke as hell hahahah... yes, I hate nig-
 
 And if you are reading this I really hate nig- night bro... what ya thinking huh?
 
-## 🪦 PROJECT STATUS
+## 🪦 Project Status
 
 **ABANDONED** because fuck you that's why.
 
 Can be used for future school projects if I ever give a fuck.
 
-## 👤 DEMO ACCOUNTS
+## 👤 Demo Accounts
 
 | Role     | Username        | Password       |
 | -------- | --------------- | -------------- |
@@ -38,7 +38,7 @@ No Composer. No Node.js. No npm.
 
 **Pure PHP chaos.** 💀
 
-## 🛡️ SECURITY
+## 🛡️ Security
 
 Includes:
 
@@ -55,7 +55,7 @@ Includes:
 
 Basically, I tried not to build a fucking disaster.
 
-## ⚠️ IMPORTANT
+## ⚠️ Important
 
 This is an **educational local demo**.
 
