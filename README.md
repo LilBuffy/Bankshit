@@ -2,11 +2,13 @@
 
 **Secure your money. Survive your decisions.**
 
-A fucking bank built using php, what could go wrong? I made this because I'm broke as hell hahahah... yes, I hate nig-
+A fucking bank built using php, what could go wrong?
+
+I made this because I'm broke as hell hahahah... yes, I hate nig-
 
 And if you are reading this I really hate nig- night bro... what ya thinking huh?
 
-## ⚰️ PROJECT STATUS
+## 🪦 PROJECT STATUS
 
 **ABANDONED** because fuck you that's why.
 
