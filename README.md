@@ -24,12 +24,15 @@ Can be used for future school projects if I ever give a fuck.
 
 Passwords use bcrypt. No plaintext password bullshit.
 
-## 📦 REQUIREMENTS
+## 🛠️ Tech Stack
 
-PHP 8.0+
-MySQL / MariaDB
+HTML5
+CSS3
+Vanilla JavaScript
+PHP
+MySQL
 XAMPP
-PDO MySQL
+phpMyAdmin
 
 No Composer. No Node.js. No npm.
 
