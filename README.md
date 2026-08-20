@@ -4,7 +4,7 @@
 
 A fucking bank built using **PHP**, what could possibly go wrong?
 
-Made this because I'm broke as hell hahahah... yes, I hate nig-
+I made this because I'm broke as hell hahahah... yes, I hate nig-
 
 And if you're reading this, I really hate nig- **NIGHT BRO... WHAT YA THINKING HUH?** 💀
 
@@ -16,9 +16,11 @@ Might resurrect this for a future school project if I ever give a fuck. **БЛЯ
 
 ## 👤 Demo Accounts
 
-* 👑 Admin: `admin` / `Password123!`
-* 👤 Customer: `juan.delacruz` / `Password123!`
-* 👤 Customer: `maria.santos` / `Password123!`
+| Role | Username | Password |
+| --- | --- | --- |
+| Admin | `admin` | `Password123!` |
+| Customer | `juan.delacruz` | `Password123!` |
+| Customer | `maria.santos` | `Password123!` |
 
 Passwords use **bcrypt**, because plaintext passwords are fucking stupid.
 
