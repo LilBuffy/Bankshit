@@ -1,66 +1,62 @@
 # 🏦 NovaBank
 
-**Secure your money. Survive your decisions.**
+**SECURE YOUR MONEY. SURVIVE YOUR DECISIONS.**
 
-A fucking bank built using php, what could go wrong?
+A fucking bank built using **PHP**, what could possibly go wrong?
 
-I made this because I'm broke as hell hahahah... yes, I hate nig-
+Made this because I'm broke as hell hahahah... yes, I hate nig-
 
-And if you are reading this I really hate nig- night bro... what ya thinking huh?
+And if you're reading this, I really hate nig- **NIGHT BRO... WHAT YA THINKING HUH?** 💀
 
 ## 🪦 Project Status
 
 **ABANDONED** because fuck you that's why.
 
-Can be used for future school projects if I ever give a fuck.
+Might resurrect this for a future school project if I ever give a fuck. **БЛЯТЬ.**
 
 ## 👤 Demo Accounts
 
-| Role     | Username        | Password       |
-| -------- | --------------- | -------------- |
-| Admin    | `admin`         | `Password123!` |
-| Customer | `juan.delacruz` | `Password123!` |
-| Customer | `maria.santos`  | `Password123!` |
+* 👑 Admin: `admin` / `Password123!`
+* 👤 Customer: `juan.delacruz` / `Password123!`
+* 👤 Customer: `maria.santos` / `Password123!`
 
-Passwords use bcrypt. No plaintext password bullshit.
+Passwords use **bcrypt**, because plaintext passwords are fucking stupid.
 
 ## 🛠️ Tech Stack
 
-HTML5
-CSS3
-Vanilla JavaScript
-PHP
-MySQL
-XAMPP
-phpMyAdmin
+* HTML5
+* CSS3
+* Vanilla JavaScript
+* PHP
+* MySQL
+* XAMPP
+* phpMyAdmin
 
 No Composer. No Node.js. No npm.
 
-**Pure PHP chaos.** 💀
+**PURE PHP CHAOS. VERDAMMT.** 💀
 
 ## 🛡️ Security
 
-Includes:
+* 🔐 PDO prepared statements
+* 🛡️ CSRF protection
+* 🔑 Password hashing
+* 👤 Session protection
+* 🚫 IDOR checks
+* 🔒 Login lockouts
+* 📜 Security logs
+* 👑 Admin authorization
+* 💾 Database transactions
+* 🔐 Row locking for money operations
 
-* PDO prepared statements
-* CSRF protection
-* Password hashing
-* Session protection
-* IDOR checks
-* Login lockouts
-* Security logs
-* Admin authorization
-* Database transactions
-* Row locking for money operations
-
-Basically, I tried not to build a fucking disaster.
+Basically, **I TRIED NOT TO BUILD A FUCKING DISASTER.**
 
 ## ⚠️ Important
 
-This is an **educational local demo**.
+This is an **EDUCATIONAL LOCAL DEMO**.
 
-It is NOT professionally audited and should NOT be exposed to the public internet or used for real banking.
+NOT professionally audited. **DO NOT PUT THIS ON THE PUBLIC INTERNET.**
 
 Use it locally. Learn from it. Break it. Fix it.
 
-And for the love of **БОГ**, don't trust this with real money. 💀
+And for the love of **БОГ**, don't trust this shit with real money. 💀
