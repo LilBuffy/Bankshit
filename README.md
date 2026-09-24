@@ -61,4 +61,4 @@ NOT professionally audited. **DO NOT PUT THIS ON THE PUBLIC INTERNET.**
 
 Use it locally. Learn from it. Break it. Fix it.
 
-And for the love of **БОГ**, don't trust this shit with real money. 💀
+And for the love of **БОГ**, don't trust this shit with real money.
