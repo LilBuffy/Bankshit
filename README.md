@@ -6,7 +6,7 @@ A fucking bank built using **PHP**, what could possibly go wrong?
 
 I made this because I'm broke as hell hahahah... yes, I hate nig-
 
-And if you're reading this, I really hate nig- **NIGHT BRO... WHAT YA THINKING HUH?** 💀
+And if you're reading this, I really hate nig-
 
 ## 🪦 Project Status
 
@@ -36,7 +36,7 @@ Passwords use **bcrypt**, because plaintext passwords are fucking stupid.
 
 No Composer. No Node.js. No npm.
 
-**PURE PHP CHAOS. VERDAMMT.** 💀
+**PURE PHP CHAOS. VERDAMMT.**
 
 ## 🛡️ Security
 
